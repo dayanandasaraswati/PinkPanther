@@ -1,0 +1,5 @@
+This directory contains files necessary to create synthetic expression 
+profile matrix. The  network, however is a real one. Refer to the
+main.R file for details on where the network is present and where the 
+output is written. See synthesize-exp.R file for description about 
+how the expression profile is generated.

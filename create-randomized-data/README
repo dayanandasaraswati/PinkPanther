@@ -1,0 +1,4 @@
+The files in this directory randomize an existing expression profile matrix
+and embed the network structure into it. Refer to main.R for details about 
+location of the nwtwork and location of output files. Refer randomize-exp.R
+for details about how the expression matrix is randomized.
